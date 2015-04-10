@@ -23,11 +23,11 @@ When unit testing, we want to test at the smallest level possible.
 
 | Docs | Help | Keywords |
 | ---- | ---- | -------- |
-| [ngMock](https://docs.angularjs.org/api/ngMock) | [ngMock.md](ngMock.md) | `module`, `inject`, `$controller`, `$httpBackend` |
-| [Sinon](http://sinonjs.org/docs/) | [sinon.md](sinon.md) | `stub`, `spy`, `called` |
-| [Chai](http://chaijs.com/api/bdd/) | [chai.md](chai.md) | `expect`, `to`, `equal`, `be` |
+| [ngMock](https://docs.angularjs.org/api/ngMock) | [ngMock.md](guide/ngMock.md) | `module`, `inject`, `$controller`, `$httpBackend` |
+| [Sinon](http://sinonjs.org/docs/) | [sinon.md](guide/sinon.md) | `stub`, `spy`, `called` |
+| [Chai](http://chaijs.com/api/bdd/) | [chai.md](guide/chai.md) | `expect`, `to`, `equal`, `be` |
 | [Sinon-chai](https://github.com/domenic/sinon-chai) | N/A | `to.have.been.called` (allows better chaining) |
-| [Mocha](http://mochajs.org/) | [mocha.md](mocha.md) | `describe`, `it`, `before`, `beforeEach`, `after`, `afterEach` |
+| [Mocha](http://mochajs.org/) | [mocha.md](guide/mocha.md) | `describe`, `it`, `before`, `beforeEach`, `after`, `afterEach` |
 | [Karma](http://karma-runner.github.io/) | N/A | Simply runs the tests |
 
 
